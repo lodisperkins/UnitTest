@@ -8,6 +8,6 @@ int main() {
 		return -1;
 	}
 	std::cout << "All tests passed successfully." << std::endl;
-
+	system("pause");
 	return 0;
 }
